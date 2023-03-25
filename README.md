@@ -14,4 +14,4 @@ using html, css and materialize
 only need to execute the file "**index.html**"
 
 ## See live example
-[http:// https://nnambo.github.io/carrucel-3d/](http:// https://nnambo.github.io/carrucel-3d/)
+(http:// https://nnambo.github.io/carrucel-3d/)
